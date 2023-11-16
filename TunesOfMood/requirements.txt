@@ -1,0 +1,8 @@
+streamlit==1.17.0
+streamlit-webrtc==0.44.2
+numpy==1.24.1
+opencv-python==3.4.17.61
+mediapipe==0.9.1.0
+keras==2.11.0
+pandas==1.5.3
+tensorflow==2.11.0
